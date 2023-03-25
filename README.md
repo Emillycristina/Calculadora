@@ -1,13 +1,13 @@
-#Calculadora em HTML, CSS e JS
+<h1>Calculadora em HTML, CSS e JS</h1>
 Esta é uma simples calculadora desenvolvida com HTML, CSS e JS. Com ela, é possível realizar operações básicas de adição, subtração, multiplicação e divisão.
 
-Pré-requisitos
+<h1>Pré-requisitos</h1>
 Para utilizar esta calculadora, basta ter um navegador web instalado em seu computador, como Google Chrome, Mozilla Firefox, Safari, entre outros.
 
-Como utilizar
+<h1>Como utilizar</h1>
 Para utilizar a calculadora, basta abrir o arquivo index.html em seu navegador web. Então, você poderá inserir os números e realizar as operações.
 
-Funcionalidades
+<h1>Funcionalidades</h1>
 A calculadora apresenta as seguintes funcionalidades:
 
 Adição (+)
@@ -23,10 +23,10 @@ Esc: Limpa a calculadora
 Personalização
 Caso deseje personalizar a calculadora, é possível alterar o CSS do arquivo style.css.
 
-Autor
+<h1>Autor</h1>
 Esta calculadora foi desenvolvida por Emilly Cristina.
 
-Licença
+<h1>Licença</h1>
 Este projeto está sob a licença MIT. Para mais informações, consulte o arquivo LICENSE.
 
 
